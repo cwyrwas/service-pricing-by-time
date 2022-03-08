@@ -7,6 +7,7 @@ module.exports = {
       },
       colors: {
         'strat-green': '#CCFF33',
+        'strat-pink': '#EE3C96'
       }
     },
     plugins: [
